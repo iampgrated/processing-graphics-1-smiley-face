@@ -42,6 +42,8 @@ ellipse(310,310, 50, 55);
 
 ellipse(390,310, 50,55);
 
+fill(255, 0, 0);
+line(400, 400, 300, 400);
 
 
   // Do not forget comments!
