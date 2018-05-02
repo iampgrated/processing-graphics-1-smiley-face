@@ -32,7 +32,17 @@ fill(64, 255, 0);
 rect(300,100,150,100);
 strokeWeight(7);
 
+fill(255, 255, 0);
 ellipse(350, 350, 200, 200);
-  
+strokeWeight(2);
+
+fill(0, 255, 255);
+ellipse(310,310, 50, 55);
+
+
+ellipse(390,310, 50,55);
+
+
+
   // Do not forget comments!
 }
